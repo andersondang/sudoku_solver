@@ -1,2 +1,2 @@
 # sudoku_solver
-Sudoku Solver
+Sudoku game with auto solver
